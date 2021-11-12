@@ -1,3 +1,7 @@
 Master 001
+<<<<<<< HEAD
 --feature001
+--feature004
+=======
 feature003
+>>>>>>> feature/feature003
